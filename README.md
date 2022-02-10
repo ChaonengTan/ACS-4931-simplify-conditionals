@@ -26,9 +26,9 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x]  Exercise  18: 'Consolidate Duplicate Conditional Fragments' Technique
   - Study [change_gear.py](change_gear.py) file. Use 'consolidate duplicate conditional fragments' Technique to improve the code.
 
-- [ ]  Exercise 19: 'Remove Control Flag' Technique
-  - [ ] Part 1: Refactor [read_file.py](read_file.py)
-  - [ ] Part 2: Refactor [backdoor_method.py](backdoor_method.py)
+- [x]  Exercise 19: 'Remove Control Flag' Technique
+  - [x] Part 1: Refactor [read_file.py](read_file.py)
+  - [x] Part 2: Refactor [backdoor_method.py](backdoor_method.py)
   - Use 'remove control flag' technique in combination with any other refactoring technique you've learned to improve readability of the code.
 
 - [ ]  Exercise 20: 'Replace Nested Conditional With Guard Clauses' Technique
